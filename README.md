@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dalerodriguez/Sysdig%20Secure%20Scanning/_apis/build/status/dalejrodriguez.pipelines-java?branchName=master)](https://dev.azure.com/dalerodriguez/Sysdig%20Secure%20Scanning/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
